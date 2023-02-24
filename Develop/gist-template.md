@@ -21,6 +21,7 @@ The example code above demonstates the format of a regex that is used to match a
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Author](#author)
 
 ## Regex Components
 
